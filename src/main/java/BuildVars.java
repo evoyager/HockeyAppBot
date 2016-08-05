@@ -3,5 +3,5 @@
  */
 public class BuildVars {
     public static final String USERNAME = "HockeyAppCoolBot";
-    public static final String TOKEN = "220619973:AAHnyOr-PSPYYwCE-lB2KTAuSGNp8jtn9HQ";
+    public static final String TOKEN = "";
 }
